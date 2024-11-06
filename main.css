@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: violet;
+    text-align: center
+}
+h1{
+    font-size: 80px
+}
+h2{
+    font-size: 40px
+}
+h3{
+    font-size: 40px
+}
+p{
+    max-width: 500px
+}
