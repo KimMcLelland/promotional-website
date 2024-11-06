@@ -13,5 +13,13 @@ h3{
     font-size: 40px
 }
 p{
-    max-width: 500px
+    max-width: 500px;
+    margin-left: 500px
+}
+
+a:link {
+    color:lime
+}
+a:visited{
+    color: green
 }
