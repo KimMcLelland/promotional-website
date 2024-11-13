@@ -10,11 +10,16 @@ h2{
     font-size: 40px
 }
 h3{
-    font-size: 40px
+    font-size: 30px
 }
 p{
     max-width: 500px;
     margin-left: 500px
+}
+
+ul{
+    max-width: 500px;
+    margin-left: 475px 
 }
 
 a:link {
