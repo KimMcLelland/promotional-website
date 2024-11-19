@@ -3,14 +3,14 @@ body{
     color: violet;
     text-align: center
 }
-ul{
+#NavBar{
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-li {
+#NavBar li {
     display: inline;
-  }
+}
 h1{
     font-size: 80px
 }
