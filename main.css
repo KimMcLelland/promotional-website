@@ -6,6 +6,11 @@ body{
     background-size: cover;
 }
 #NavBar {
+    display:flex;
+    justify-content: space-around;
+    max-width: 900px;
+    margin-left: 300px;
+    margin-right: 300px;
     background-color: black;
     list-style-type: none; 
     li{
@@ -17,8 +22,14 @@ body{
     background-color: black;
     max-width: 900px;
     margin-left: 300px;
+    padding-bottom: 50px;
 }
 
+.standard {
+    padding: 0%;
+    margin-left: 150px;
+    margin-right:150px;
+}
 .standard li {
     text-align: justify;
 }
@@ -38,10 +49,7 @@ p{
     text-align:justify;
 }
 
-ul{
-    max-width: 500px;
-    margin-left: 475px 
-}
+
 
 a:link {
     color:lime
